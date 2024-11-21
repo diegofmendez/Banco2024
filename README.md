@@ -1,0 +1,1 @@
+El codigo busca emular la función de un banco convencional, sin ahondar mucho en las distintas funciones que el software real de un banco deberia tener; sino que buscando solo hacer las acciones más elementales.
